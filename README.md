@@ -5,7 +5,8 @@
 - FLORIBERTUS BASFIANTO
 
 ### Case 
-Buatlah aplikasi perhitungan nilai menggunakan laravel untuk menghitung grade dengan komposisi inputan 
+Buatlah aplikasi perhitungan nilai menggunakan laravel untuk menghitung grade dengan 
+- Komposisi inputan 
     - Nilai Quis
     - Nilai Tugas
     - Nilai Absensi
@@ -19,7 +20,7 @@ Buatlah aplikasi perhitungan nilai menggunakan laravel untuk menghitung grade de
     - Nilai <=100 = A
     
 - Hasil outputnya ditentukan dengan membagi 5 dari hasil inputan yang dilakukan.
-   
+  
 ### Step by step using this project
 - Clone project ini
 - Jalankan "php artisan serve" 
