@@ -1,9 +1,4 @@
 ## TK 3 Team 4 Web Programming - Binus University
-- EVAN ADRIAN
-- MUHAMMAD AINUR ROZIQIN TAHITYA
-- WILBERT GILCHRIST SYARANAMUAL
-- FLORIBERTUS BASFIANTO
-
 ### Case 
 Buatlah aplikasi perhitungan nilai menggunakan laravel untuk menghitung grade dengan 
 - Komposisi inputan 
